@@ -2,12 +2,12 @@
 
 I have created a news website using React.js with Vite framework for the frontend, Node.js for the backend, and styled-components for styling.
 
-## Tools
-- FRONTEDN :- React with vite framework
-- BACKEND :- Node.js
-- DATABASE :- mongoDB
-- ORM :- Mongoose
-- EMAIL :- Nodemailer
+## Tools 🛠️
+- Frontend: React with Vite framework ⚛️
+- Backend: Node.js 🟩
+- Database: MongoDB 🍃
+- ORM: Mongoose 🐍
+- Email: Nodemailer 📧
 
 ## Features ✨
 
@@ -22,8 +22,7 @@ I have created a news website using React.js with Vite framework for the fronten
 - 🔑 Admin and User role functionality
 
 ## Functionality ⚙️
-
--Users can login, signup, logout, and delete their accounts.
+- Users can login, signup, logout, and delete their accounts.
 - Users signed up as "admin" can create and delete posts.
 - All users can view all posts.
 - Admins can view posts they created.

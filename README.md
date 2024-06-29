@@ -35,5 +35,5 @@ I have created a news website using React.js with Vite framework for the fronten
 - React
 - Node.js
 
-## OUTPUT 
+## OUTPUT 🖥️
 ![video](FastNews.gif)

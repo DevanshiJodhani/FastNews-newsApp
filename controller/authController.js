@@ -3,7 +3,6 @@ import User from '../models/userModel.js';
 import { catchAsync } from '../utils/catchAsync.js';
 import AppError from '../utils/appError.js';
 import sendEmail from '../utils/email.js';
-const { WELCOME_EMAIL_SUBJECT, WELCOME_EMAIL_INTRODUCTION } = process.env;
 
 const signToken = (id) => {
   return jwt.sign({ id }, process.env.JWT_SECRET, {
